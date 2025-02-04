@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../BSIT/3rd Year/1st Sem/Advanced Web Systems/FINALS/TechHub/AWS_FINALPROJ"
+		},
+		{
+			"path": "../../../../Downloads/AWS TUTORIAL SYSTEM/aws_tutorial"
+		},
+		{
+			"path": "../spectr"
+		},
+		{
+			"path": "../../../../Downloads/img-slider-main"
+		},
+		{
+			"path": "../../../../Downloads/image slider/Auto-Rotate-Slider-1-master"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "spectr-main_website_layout_kyle"
+	}
+}
