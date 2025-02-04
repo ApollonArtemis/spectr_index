@@ -188,7 +188,7 @@ footer {
 
 @media (max-width: 991.98px) {
   .offcanvas-body {
-    background: #0b0b144b;
+    background: #0b0b14;
     -webkit-backdrop-filter: blur(16px);
     backdrop-filter: blur(16px);
     border: 1px solid #0b0b1459;
@@ -211,9 +211,8 @@ footer {
   }
 
   .navbar-nav {
-    background-color: #0b0b14;
     padding: 20px;
-    border-radius: 20px;
+    border-radius: 15px;
   }
 
   .dropdown-menu a {
@@ -230,6 +229,15 @@ footer {
     letter-spacing: 1px;
     color: #ffffff;
   }
+
+  #howItWorksH {
+    display: none;
+  }
+
+  #howItWorksV {
+    display: block;
+  }
+
 }
 
 #footeritem {
